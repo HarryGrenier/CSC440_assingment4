@@ -1,9 +1,0 @@
-Once upon a time, in a land far away, there lived a young coder who loved solving puzzles. 
-The coder, named Alice, found joy in learning about algorithms and solving complex problems 
-with creative solutions. Among the many challenges Alice faced, one of her favorites was 
-compression algorithms, especially Huffman coding.
-
-With Huffman coding, Alice could compress large amounts of data into smaller bits, saving 
-space and making data transmission more efficient. She often tested her skills on various 
-text samples, and this is one of them. Enjoy decoding this short story!
-
